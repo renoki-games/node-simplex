@@ -10,6 +10,8 @@ Node.js Simplex
 
 Maintained fork of fast-simplex-noise that works in TS environments.
 
+Originally forked from unmaintained [joshforisha/fast-simplex-noise-js](https://github.com/joshforisha/fast-simplex-noise-js).
+
 ## 🤝 Supporting
 
 Renoki Co. on GitHub aims on bringing a lot of open source projects and helpful projects to the world. Developing and maintaining projects everyday is a harsh work and tho, we love it.
