@@ -1,6 +1,6 @@
 {
   "name": "@renoki-co/node-simplex",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Maintained fork of fast-simplex-noise that works in TS environments.",
   "keywords": [
     "node",
