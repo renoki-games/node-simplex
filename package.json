@@ -1,18 +1,18 @@
 {
-  "name": "~npm_package_name~",
+  "name": "@renoki-co/node-simplex",
   "version": "1.0.0",
-  "description": "~package_description~",
+  "description": "Maintained fork of fast-simplex-noise that works in TS environments.",
   "keywords": [
     "node",
     "package"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/renoki-co/~git_package_name~.git"
+    "url": "https://github.com/renoki-co/node-simplex.git"
   },
   "author": "Alex Renoki",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/renoki-co/~git_package_name~.git",
+  "homepage": "https://github.com/renoki-co/node-simplex.git",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "engines": {
