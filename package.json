@@ -1,5 +1,5 @@
 {
-  "name": "@renoki-co/node-simplex",
+  "name": "@renoki-games/node-simplex",
   "version": "0.0.0-dev",
   "description": "Maintained fork of fast-simplex-noise that works in TS environments.",
   "keywords": [
@@ -8,11 +8,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/renoki-co/node-simplex.git"
+    "url": "https://github.com/renoki-games/node-simplex.git"
   },
   "author": "Alex Renoki",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/renoki-co/node-simplex.git",
+  "homepage": "https://github.com/renoki-games/node-simplex.git",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "engines": {

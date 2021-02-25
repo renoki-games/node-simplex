@@ -1,12 +1,12 @@
 Node.js Simplex
 ===============
 
-![CI](https://github.com/renoki-co/node-simplex/workflows/CI/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/renoki-co/node-simplex/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-co/node-simplex/branch/master)
+![CI](https://github.com/renoki-games/node-simplex/workflows/CI/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/renoki-games/node-simplex/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-games/node-simplex/branch/master)
 [![StyleCI](https://github.styleci.io/repos/330025905/shield?branch=master)](https://github.styleci.io/repos/330025905)
-[![Latest Stable Version](https://img.shields.io/github/package-json/v/renoki-co/node-simplex)](https://www.npmjs.com/package/@renoki-co/node-simplex)
-[![Total Downloads](https://img.shields.io/npm/dt/@renoki-co/node-simplex)](https://www.npmjs.com/package/@renoki-co/node-simplex)
-[![License](https://img.shields.io/npm/l/@renoki-co/node-simplex)](https://www.npmjs.com/package/@renoki-co/node-simplex)
+[![Latest Stable Version](https://img.shields.io/github/package-json/v/renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
+[![Total Downloads](https://img.shields.io/npm/dt/@renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
+[![License](https://img.shields.io/npm/l/@renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
 
 Maintained fork of fast-simplex-noise that works in TS environments.
 
@@ -14,7 +14,7 @@ Originally forked from unmaintained [joshforisha/fast-simplex-noise-js](https://
 
 ## 🤝 Supporting
 
-Renoki Co. on GitHub aims on bringing a lot of open source projects and helpful projects to the world. Developing and maintaining projects everyday is a harsh work and tho, we love it.
+Renoki Co. & Renoki Games on GitHub aims on bringing a lot of open source projects and helpful projects to the world. Developing and maintaining projects everyday is a harsh work and tho, we love it.
 
 If you are using your application in your day-to-day job, on presentation demos, hobby projects or even school projects, spread some kind words about our work or sponsor our work. Kind words will touch our chakras and vibe, while the sponsorships will keep the open source projects alive.
 
@@ -25,13 +25,13 @@ If you are using your application in your day-to-day job, on presentation demos,
 You can install the package via npm:
 
 ```bash
-npm install @renoki-co/node-simplex
+npm install @renoki-games/node-simplex
 ```
 
 ## 🙌 Usage
 
 ```js
-import { Simplex } from '@renoki-co/node-simplex';
+import { Simplex } from '@renoki-games/node-simplex';
 
 const noiser = new Simplex({
     frequency: 0.01,
