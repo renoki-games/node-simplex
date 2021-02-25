@@ -4,7 +4,7 @@ Node.js Simplex
 ![CI](https://github.com/renoki-games/node-simplex/workflows/CI/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/renoki-games/node-simplex/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-games/node-simplex/branch/master)
 [![StyleCI](https://github.styleci.io/repos/330025905/shield?branch=master)](https://github.styleci.io/repos/330025905)
-[![Latest Stable Version](https://img.shields.io/github/package-json/v/renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
+[![Latest Stable Version](https://img.shields.io/github/v/release/renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
 [![Total Downloads](https://img.shields.io/npm/dt/@renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
 [![License](https://img.shields.io/npm/l/@renoki-games/node-simplex)](https://www.npmjs.com/package/@renoki-games/node-simplex)
 
